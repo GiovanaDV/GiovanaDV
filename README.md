@@ -10,6 +10,7 @@
                 https://github.com/GiovanaDV/data-structures-GS.git
    
 - 2 semestre:  Recursividade 05/08 --> https://github.com/GiovanaDV/aula05-08.git
+               Algoritmos de busca 12/08 --> https://github.com/Juliapixel/algoritmos_busca.git
   
 # MLAM
 - 2 semestre: Distribuicao Amostral das Medias Amostrais 21/08 --> https://github.com/GiovanaDV/aula21-08.git
