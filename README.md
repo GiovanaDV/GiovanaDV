@@ -20,5 +20,6 @@
 # MMC 
 - 2 semestre: Vetores 14/08 --> https://github.com/GiovanaDV/aula14-08.git
               Matrizes 21/08 --> https://github.com/GiovanaDV/aula21_08.git
+              CP1 28/08 --> https://github.com/GiovanaDV/cp1---MMC.git
 # PCAP
 
