@@ -24,3 +24,4 @@
               CP1 28/08 --> https://github.com/GiovanaDV/cp1---MMC.git
 # PCAP
 - 2 semestre: Matrizes --> https://github.com/GiovanaDV/matrizes.git
+              Dicionários e Tuplas --> https://github.com/GiovanaDV/dici_tuplas.git
