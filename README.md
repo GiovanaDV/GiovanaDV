@@ -15,6 +15,7 @@
   
 # MLAM
 - 2 semestre: Distribuicao Amostral das Medias Amostrais 21/08 --> https://github.com/GiovanaDV/aula21-08.git
+              Números Randômicos 28/08 --> https://github.com/GiovanaDV/Aula28_08.git
 
 
 # MMC 
