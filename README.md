@@ -12,6 +12,7 @@
 - 2 semestre:  Recursividade 05/08 --> https://github.com/GiovanaDV/aula05-08.git
                Algoritmos de busca 12/08 --> https://github.com/Juliapixel/algoritmos_busca.git / minhas
                Algoritmos de ordenacao 19/08 --> https://github.com/lanc07/algoritmos-de-ordenacao.c.git / https://github.com/GiovanaDV/aula19-08.git
+               TAD e Lista Sequencial 26/08 --> https://github.com/GiovanaDV/tad-aluno-lista-c.git
   
 # MLAM
 - 2 semestre: Distribuicao Amostral das Medias Amostrais 21/08 --> https://github.com/GiovanaDV/aula21-08.git
