@@ -1,69 +1,68 @@
-# FACULDADE 2025 - FIAP
+# 👩‍💻 Giovana Dias Valentini
 
-# DSA
+🎓 Estudante de Ciência da Computação – FIAP (conclusão em 2028)  
+💻 Técnica em Informática pelo Instituto Federal de São Paulo (concluído em 2024)  
+🌍 Inglês Fluente | Intercâmbio em Bournemouth, Reino Unido (2023)  
+📍 São Paulo - SP  
 
-# 1 semestre  
+---
 
-https://github.com/GiovanaDV/aula1.git
+## 🎯 Objetivo
 
-https://github.com/GiovanaDV/site-colaborativo-grupo-Feijoada.git
+Busco oportunidade de estágio na área de Tecnologia da Informação para aplicar meus conhecimentos técnicos, desenvolver novas habilidades e adquirir experiência prática em um ambiente profissional desafiador. Aberta a explorar diferentes áreas da TI para definir minha especialização futura.
 
-https://github.com/GiovanaDV/primeiro-programa-c.git
+---
 
-https://github.com/GiovanaDV/aula08-04.git
+## 🛠 Tecnologias e Ferramentas
 
-https://github.com/GiovanaDV/funcoes-c-squad-CP2C.git
+**Linguagens de Programação:**  
+C • Python • HTML • CSS  
 
-https://github.com/GiovanaDV/aula-06-05.git
+**Banco de Dados:**  
+MySQL  
 
-https://github.com/GiovanaDV/data-structures-GS.git
+**Sistemas Operacionais:**  
+Linux • Microsoft Office  
 
-   
-# 2 semestre
+**Outros Conhecimentos:**  
+Redes de Computadores • Desenvolvimento de Projetos • Arduino  
 
-Recursividade 05/08 --> https://github.com/GiovanaDV/aula05-08.git
+---
 
-Algoritmos de busca 12/08 --> https://github.com/Juliapixel/algoritmos_busca.git / minhas
+## 📚 Formação Acadêmica
 
-Algoritmos de ordenacao 19/08 --> https://github.com/lanc07/algoritmos-de-ordenacao.c.git / https://github.com/GiovanaDV/aula19-08.git
+**FIAP**  
+Bacharelado em Ciência da Computação (2024 – 2028)
 
-TAD e Lista Sequencial 26/08 --> https://github.com/GiovanaDV/tad-aluno-lista-c.git
+**Instituto Federal de São Paulo (IFSP)**  
+Ensino Médio Integrado ao Técnico em Informática (concluído em 2024)
 
-Estrutura de dados Fila e Pilha 02/09 --> https://github.com/GiovanaDV/estrutura-dados-fila-pilha-c.git
+---
 
-  
-# MLAM
+## 📜 Certificações
 
-# 2 semestre:
+- Python Essentials 1 – Cisco  
+- Fundamentos da Inteligência Artificial – IBM SkillsBuild  
+- Inteligência Artificial e o Novo Contexto da Cultura Digital – Fundação Bradesco  
+- Arduino – Centro Paula Souza  
+- Programa de Mentoria de Carreira – Instituto TIVIT  
+- IT for Girls 2025 – WoMakers Code & NTT Data  
+- Formação Social e Sustentabilidade – FIAP  
+- Inglês Avançado – Senac São Paulo  
+- Cambridge English: C1 Advanced (CAE) – Cultura Inglesa  
+- General English Course – Kings Education Bournemouth (UK)
 
-Distribuicao Amostral das Medias Amostrais 21/08 --> https://github.com/GiovanaDV/aula21-08.git
+---
 
-Números Randômicos 28/08 --> https://github.com/GiovanaDV/Aula28_08.git
+## 🎓 Repositórios Acadêmicos
 
+📚 Organização com as disciplinas separadas por ano:  
+🔗 https://github.com/NOME-DA-SUA-ORGANIZATION
 
-# MMC 
+---
 
-# 2 semestre: 
-Vetores 14/08 --> https://github.com/GiovanaDV/aula14-08.git
+## 🌎 Contato
 
-Matrizes 21/08 --> https://github.com/GiovanaDV/aula21_08.git
-
-CP1 28/08 --> https://github.com/GiovanaDV/cp1---MMC.git
-
-CP2 18/09 --> https://github.com/GiovanaDV/CP2---MMC.git
-
-
-# PCAP
-
-# 2 semestre: 
-
-Matrizes --> https://github.com/GiovanaDV/matrizes.git
-
-Dicionários e Tuplas --> https://github.com/GiovanaDV/dici_tuplas.git
-
-
-# Outros
-
-Goodwe-IA --> https://github.com/GiovanaDV/Goodwe-IA.git
-
-CP1-SERS --> https://github.com/GiovanaDV/CP1-SERS.git
+📧 giovana.dvalentini@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/giovana-dias-valentini/  
+💻 GitHub: https://github.com/GiovanaDV
