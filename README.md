@@ -65,4 +65,3 @@ Ensino Médio Integrado ao Técnico em Informática (concluído em 2024)
 
 📧 giovana.dvalentini@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/giovana-dias-valentini/  
-💻 GitHub: https://github.com/GiovanaDV
