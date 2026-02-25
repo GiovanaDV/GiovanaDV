@@ -57,7 +57,7 @@ Ensino Médio Integrado ao Técnico em Informática (concluído em 2024)
 ## 🎓 Repositórios Acadêmicos
 
 📚 Organização com as disciplinas separadas por ano:  
-🔗[https://github.com/NOME-DA-SUA-ORGANIZATION](https://github.com/GiovanaDV-Faculdade)
+🔗[https://github.com/FIAP](https://github.com/GiovanaDV-Faculdade)
 
 ---
 
